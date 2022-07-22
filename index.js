@@ -6,6 +6,4 @@ const obj = {
     b: 'b',
 };
 
-// teste
-
 console.table(obj);
