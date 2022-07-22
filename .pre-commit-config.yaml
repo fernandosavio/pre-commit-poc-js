@@ -7,8 +7,7 @@ repos:
     -   id: check-yaml
     -   id: check-json
     -   id: mixed-line-ending
-    -   id: no-commit-to-branch
-        args: [--branch, staging, --branch, main]
+    # -   id: no-commit-to-branch
 
 -   repo: https://github.com/pre-commit/mirrors-eslint
     rev: v8.20.0
